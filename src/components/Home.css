@@ -1,0 +1,72 @@
+.home-page {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .home-header {
+    text-align: center;
+    margin-bottom: 40px;
+  }
+  
+  .home-header h1 {
+    font-size: 36px;
+    margin-bottom: 10px;
+  }
+  
+  .home-header p {
+    font-size: 18px;
+    color: #666;
+  }
+  
+  .browse-link {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #f57c00;
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+    margin-top: 20px;
+    border-radius: 4px;
+  }
+  
+  .featured-books {
+    text-align: center;
+  }
+  
+  .featured-books h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .book-list {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .book-card {
+    width: 200px;
+    margin: 0 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 10px;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .book-card img {
+    width: 100%;
+    height: auto;
+    border-radius: 4px;
+  }
+  
+  .book-details h3 {
+    font-size: 18px;
+    margin-bottom: 5px;
+  }
+  
+  .book-details p {
+    color: #666;
+  }
+ 
+  
