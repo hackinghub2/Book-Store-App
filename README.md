@@ -24,41 +24,26 @@ To get started with the Book Store App locally, follow these steps:
 
    ```bash
    git clone https://github.com/hackinghub2/book-store-app.git
-Navigate to the Project Directory:
-
-bash
-Copy code
-cd book-store-app
-Set Up the Backend:
-
-Install the required Python packages:
-
-bash
-Copy code
-pip install -r requirements.txt
-Run the backend server:
-
-bash
-Copy code
-python app.py
-Set Up the Frontend:
-
-Navigate to the frontend directory:
-
-bash
-Copy code
-cd frontend
-Install the required Node.js packages:
-
-bash
-Copy code
-npm install
-Start the React development server:
-
-bash
-Copy code
-npm start
-Access the Application:
-
+2. Navigate to the Project Directory:
+   cd book-store-app
+3. Set up the backend:
+   - install the required python packages:
+     pip install -r requirements.txt
+   - Run the backend server:
+     python app.py
+4. Set up the Frontend:
+   - Navigate to the frontend directory:
+     cd frontend
+   - Install the required Node.js packages:
+     npm install
+   - Start the React development server:
+     npm start
+5. Access the Application:
 Open your browser and go to http://localhost:3000 to see the app in action.
+
+
+
+
+
+
 
